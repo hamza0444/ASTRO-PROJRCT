@@ -9,3 +9,9 @@ bgugujbhjub
 - ## hello
 - ### hello
 - #### hello
+```markdown
+| Feature | Basic | Pro |
+| :--- | :---: | ---: |
+| Storage | 10 GB | 100 GB |
+| Support | Email | 24/7 Live |
+
